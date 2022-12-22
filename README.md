@@ -8,4 +8,8 @@
   - `brew install poetry`
 - [vs code](https://code.visualstudio.com)
   - `brew install --cask visual-studio-code`
+  - Extensions
+    - Auto Rename Tag
+    - MySQL
+    - Prettier (Javascript)
 
