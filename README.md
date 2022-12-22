@@ -12,4 +12,5 @@
     - Auto Rename Tag
     - MySQL
     - Prettier (Javascript)
-
+- Flask
+  - `flask --debug run`
