@@ -13,3 +13,9 @@
 - iTerm2
 - Alfred 4
 - [ohmyzsh](https://ohmyz.sh/)
+  - [theme change](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
+  - autojump
+  - zsh-autosuggestions
+- Chrome
+  - [authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai)
+  
